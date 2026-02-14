@@ -1,4 +1,4 @@
-Rajarata Banking App
+Rajarata Banking System
 
 📌 Project Overview
 
